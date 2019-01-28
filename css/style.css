@@ -6,8 +6,8 @@ html {
 
 body {
   color: rgba(0, 0, 0, 0.9);
-  font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
-  font-size: 15px;
+  font-family: 'Microsoft YaHei', SimSun, sans-serif;
+  font-size: 14px;
   width: 80%;
   margin: 0 auto 30px auto;
   background-color: #fff;
@@ -116,9 +116,9 @@ a:hover, a:active {
 }
 
 .page-top {
-  width: 60%;
+  width: 48%;
   position: fixed;
-  right: 0;
+  right: 20%;
   z-index: 3;
   background-color: #fff;
   height: 60px;
